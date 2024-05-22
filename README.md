@@ -14,14 +14,14 @@
 （8） 季节因素对产品需求量的影响。 <br>
 2. 基于上述分析，建立数学模型，对附件预测数据（predict_sku1.csv）中给出的产品，预测未来3月（即2019年1月、2月、3月）的月需求量，将预测结果按照表3的格式保存为文件result1.xlsx，与论文一起提交。请分别按天、周、月的时间粒度进行预测，试分析不同的预测粒度对预测精度会产生什么样的影响。
 
-![month_avg_ord.png](image/qeustion5/month_avg_ord.png)
-![month_total_ord.png](image/qeustion5/month_total_ord.png)
-![month_total_ord.png](image/question3/cate_sales.png)
-![month_total_ord.png](image/question3/month_way.png)
-![month_total_ord.png](image/question3/offline.png)
-![month_total_ord.png](image/question6/产品大类_节假日.png)
-![month_total_ord.png](image/question6/产品细类_节假日.png)
-![month_total_ord.png](image/question6/销售区域_节假日.png)
+![month_avg_ord.png](/产品订单/image/qeustion5/month_avg_ord.png)
+![month_total_ord.png](/产品订单/image/qeustion5/month_total_ord.png)
+![month_total_ord.png](/产品订单/image/question3/cate_sales.png)
+![month_total_ord.png](/产品订单/image/question3/month_way.png)
+![month_total_ord.png](/产品订单/image/question3/offline.png)
+![month_total_ord.png](/产品订单/image/question6/产品大类_节假日.png)
+![month_total_ord.png](/产品订单/image/question6/产品细类_节假日.png)
+![month_total_ord.png](/产品订单/image/question6/销售区域_节假日.png)
 
 ### Author
 
